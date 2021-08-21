@@ -1,3 +1,3 @@
 # MeasureLengthTest
 
-FY2021の研究でも使用予定
+This code was used in FY 2020 research.
